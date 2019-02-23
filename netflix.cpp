@@ -3,11 +3,10 @@
 //
 // Name: Ruchit Patel
 //
-// Net id: rpate329
+// 
 //
-// U. of Illinois, Chicago
-// CS 341: Fall 2018
-// Project 02
+// University of Illinois at Chicago
+// 
 //
 
 
