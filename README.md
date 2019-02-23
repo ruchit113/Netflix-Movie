@@ -1,2 +1,0 @@
-# Netflix-Movie
-Movie Analysis
