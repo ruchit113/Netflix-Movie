@@ -3,11 +3,7 @@
 //
 // Name: Ruchit Patel
 //
-// 
-//
 // University of Illinois at Chicago
-// 
-//
 
 
 #include<iostream>
